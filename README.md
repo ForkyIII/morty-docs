@@ -9,6 +9,12 @@ Morty Docs is a library to enable documentation to be generated as a static
 website, to allow users to consume the content in an easily accessible format.
 It takes an array of markdown and/or asciidoc files and creates a static website.
 
+For similar tools:
+- [medium](https://medium.com/@bolajiayodeji/how-to-convert-github-markdown-files-to-a-simple-website-b08602d05e1c)
+- [google1](https://www.google.com/search?q=how+to+generate+a+website+from+a+markdown+file&oq=how+to+generate+a+website+from+a+markdown+file&aqs=chrome..69i57j33i22i29i30l8.12164j0j4&sourceid=chrome&ie=UTF-8)
+- [google2](https://www.google.com/search?q=how+to+generate+static+site+content+from+markdown+file&oq=how+to+generate+static+site+content+from+markdown+file&aqs=chrome..69i57.23142j0j1&sourceid=chrome&ie=UTF-8)
+- [google3](https://www.google.com/search?q=how+to+generate+dynamic+site+content+from+markdown+file&sxsrf=ALeKk01wqQcO9ANXvAUnVVplJ9jVZbC4HQ%3A1625268281045&ei=OaDfYKqoAovFUvrfoOgO&oq=how+to+generate+dynamic+site+content+from+markdown+file&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsANKBAhBGABQ4vMBWO78AWDf_gFoA3ACeACAAY0CiAHVC5IBBTAuOC4xmAEAoAEBqgEHZ3dzLXdpesgBCMABAQ&sclient=gws-wiz&ved=0ahUKEwjqqLmUxMXxAhWLohQKHfovCO0Q4dUDCA4&uact=5)
+
 Morty is specifically aimed at requiring little to no change in the markdown/asciidoc files.
 
 In the BBC we have a large amount of git repositories which often have markdown documentation within them, they don't follow a consistent structure and their content structure can also be wildly different. We wanted a way to publish these with the minimal amount of effort from teams, Morty Docs is what we use to solve this problem.
